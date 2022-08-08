@@ -11,6 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 "react-scripts": "5.0.1",
 
 
-### For run this app
+### This app is deployed ###
 
-...
+You can see how it work by this link:
+
+http://auth-control-demo.atwebpages.com/
