@@ -1,0 +1,9 @@
+.content-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.content-block button {
+    margin: 20px auto;
+}

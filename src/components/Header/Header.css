@@ -1,0 +1,14 @@
+.header-container {
+    width: 100%;
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 9998;
+    background-color: aliceblue;
+    border-bottom: 1px solid red;
+}
+header {
+    max-width: 1400px;
+    height: 30px;
+    padding: 20px;
+    margin: auto;
+}

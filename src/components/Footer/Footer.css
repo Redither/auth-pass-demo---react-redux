@@ -1,0 +1,10 @@
+.footer-container {
+    width: 100%;
+    border-top: 1px solid black;
+    background-color: #f0f0f0;
+}
+footer {
+    max-width: 1400px;
+    padding: 20px;
+    margin: auto;
+}
