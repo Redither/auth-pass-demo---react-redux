@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 "react-redux": "^8.0.2",
 "react-router-dom": "^6.3.0",
 "react-scripts": "5.0.1",
-
+"node": 16.14.2
 
 ### This app is deployed ###
 
